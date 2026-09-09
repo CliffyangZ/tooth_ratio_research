@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+tests/test_cvat_coco.py
+tests/test_download_sam_weights.py
+tests/test_yolo_dataset.py
+tests/test_yolo_sam_coco.py
+tooth_ratio.egg-info/PKG-INFO
+tooth_ratio.egg-info/SOURCES.txt
+tooth_ratio.egg-info/dependency_links.txt
+tooth_ratio.egg-info/requires.txt
+tooth_ratio.egg-info/top_level.txt
