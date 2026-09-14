@@ -851,6 +851,7 @@ name = "tooth-ratio"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "matplotlib" },
     { name = "numpy" },
     { name = "opencv-python" },
     { name = "scikit-image" },
@@ -869,6 +870,7 @@ yolo = [
 
 [package.metadata]
 requires-dist = [
+    { name = "matplotlib", specifier = ">=3.11.1" },
     { name = "numpy", specifier = "==2.5.2" },
     { name = "opencv-python", specifier = "==5.0.0.93" },
     { name = "pytest", marker = "extra == 'dev'", specifier = "==9.1.1" },

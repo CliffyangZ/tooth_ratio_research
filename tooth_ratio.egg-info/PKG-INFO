@@ -3,6 +3,7 @@ Name: tooth-ratio
 Version: 0.1.0
 Summary: Tools for processing and comparing tooth images
 Requires-Python: <3.13,>=3.12
+Requires-Dist: matplotlib>=3.11.1
 Requires-Dist: numpy==2.5.2
 Requires-Dist: opencv-python==5.0.0.93
 Requires-Dist: scikit-image==0.26.0
